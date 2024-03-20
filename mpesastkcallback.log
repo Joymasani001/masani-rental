@@ -1,0 +1,7 @@
+{"Body":{"stkCallback":{"MerchantRequestID":"6e86-45dd-91ac-fd5d4178ab52762686","CheckoutRequestID":"ws_CO_08032024024330109702502952","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
+
+
+
+
+{"Body":{"stkCallback":{"MerchantRequestID":"2ba8-4165-beca-292db11f9ef82288457","CheckoutRequestID":"ws_CO_08032024031851200702502952","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
+{"Body":{"stkCallback":{"MerchantRequestID":"6e86-45dd-91ac-fd5d4178ab52762959","CheckoutRequestID":"ws_CO_08032024031931110702502952","ResultCode":1037,"ResultDesc":"DS timeout user cannot be reached"}}}
